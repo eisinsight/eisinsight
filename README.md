@@ -1,4 +1,4 @@
-![logo](https://github.com/eisinsight/eisinsight/blob/main/Github_banner.png)
+![logo](https://github.com/eisinsight/eisinsight/blob/main/3.png)
 <h1 align="center">Hi 👋, I'm Muhammad Eis</h1>
 <h3 align="center">CA student Data enthusiast Turning numbers into narratives</h3>
 
