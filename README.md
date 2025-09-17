@@ -1,18 +1,29 @@
 ![logo](https://github.com/eisinsight/eisinsight/blob/main/Github_banner_1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Eis</h1>
-<h3 align="center">📚 Ca Student | 📈 Data Analyst </h3>
+<h3 align="center">📚 CA Student | 📈 Data Analyst </h3>
 <h4 align="center">Transforming spreadsheets into stories, and data into decisions.</h4>
 
 ---
 
 ### 🧭 About Me
 
-- 💻 Data analyst with 10+ projects on GitHub, using SQL, Python, and Power BI 
-- 🎓 CA student with a passion for financial clarity and analytical depth  
- - 🌊 Resilient soul from South Punjab, crafting insights that uplift both business and community  
-- 🧠 Lifelong learner with Udemy certifications in Python, SQL, Excel, Power BI, and creative tools  
-- ✨ Currently building a global identity that fuses technical mastery with cultural storytelling  
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>💻 Data analyst with 10+ projects on GitHub, using SQL, Python, and Power BI</li>
+        <li>🎓 CA student with a passion for financial clarity and analytical depth</li>
+        <li>🌊 Resilient soul from South Punjab, crafting insights that uplift both business and community</li>
+        <li>🧠 Lifelong learner with Udemy certifications in Python, SQL, Excel, Power BI, and creative tools</li>
+        <li>✨ Currently building a global identity that fuses technical mastery with cultural storytelling</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/eisinsight/eisinsight/blob/main/gif%20github%201.gif" alt="Muhammad Eis GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,7 +60,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva"/>
   <img src="https://github.com/eisinsight/eisinsight/blob/main/Google%20nanobanana%20icon.png" width="40" height="40" alt="Banana.dev"/>
-  </p>
+</p>
 
 #### 🧠 Concepts & Skills
 <p>
@@ -62,14 +73,13 @@
 
 ### 📈 Featured Projects
 
-- 🎨 **Visual Storytelling Portfolio** – Data meets design with Canva + AI tools and many more with Python, Sql, Excel, Power bi 
+- 🎨 **Visual Storytelling Portfolio** – Data meets design with Canva + AI tools and many more with Python, SQL, Excel, Power BI  
 
 ---
 
 ### 🧠 Quote I Live By
 
 > "Data is not just numbers—it's the voice of reality. I listen, interpret, and act."
-
 
 
 
