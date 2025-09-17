@@ -48,7 +48,7 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva"/>
-  <img src="https://banana.dev/static/media/logo.1c6d6e5e.svg" width="40" height="40" alt="Banana.dev"/>
+  <img src="https://github.com/eisinsight/eisinsight/blob/main/Google%20nanobanana%20icon.png" width="40" height="40" alt="Banana.dev"/>
   </p>
 
 #### 🧠 Concepts & Skills
