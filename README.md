@@ -40,7 +40,7 @@
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Power_BI_logo.svg" width="40" height="40" alt="Power BI"/>
+  <img src="https://github.com/eisinsight/eisinsight/blob/main/powerbi%20icon.png" width="40" height="40" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/>
 </p>
 
