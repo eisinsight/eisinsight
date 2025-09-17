@@ -70,7 +70,7 @@
 
 > "Data is not just numbers—it's the voice of reality. I listen, interpret, and act."
 
----
 
-Let me know if you'd like to add GitHub stats, visitor badges, or a spicy Urdu tagline to seal the vibe. We can make this profile unforgettable.
+
+
 
