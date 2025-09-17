@@ -20,7 +20,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/eisinsight/eisinsight/blob/main/gif%20github%201.gif" alt="Muhammad Eis GIF" width="100%" />
+      <img src="https://github.com/eisinsight/eisinsight/blob/main/animated%20gif.gif" alt="Muhammad Eis GIF" width="100%" />
     </td>
   </tr>
 </table>
