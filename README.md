@@ -40,7 +40,7 @@
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" alt="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://github.com/eisinsight/eisinsight/blob/main/icon%20powerbi.png" width="40" height="40" alt="Power BI"/>
+  <img src="https://github.com/eisinsight/eisinsight/blob/main/power%20bi%20icon.png" width="40" height="40" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter Notebook"/>
 </p>
 
@@ -48,14 +48,12 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="40" height="40" alt="Excel"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="40" height="40" alt="Canva"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Google_Imagen_logo.svg/512px-Google_Imagen_logo.svg.png" width="40" height="40" alt="Google Imagen"/>
   <img src="https://banana.dev/static/media/logo.1c6d6e5e.svg" width="40" height="40" alt="Banana.dev"/>
-  <img src="https://nanonets.com/images/logo.svg" width="40" height="40" alt="Nanonets"/>
-</p>
+  </p>
 
 #### 🧠 Concepts & Skills
 <p>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-prompt-engineering-artificial-intelligence-flaticons-lineal-color-flat-icons.png" width="40" height="40" alt="Prompt Engineering"/>
+  <img src="https://github.com/eisinsight/eisinsight/blob/main/prompt%20engineering%20icon.png" width="40" height="40" alt="Prompt Engineering"/>
   <img src="https://img.icons8.com/color/48/000000/storytelling.png" width="40" height="40" alt="Storytelling"/>
   <img src="https://img.icons8.com/color/48/000000/decision.png" width="40" height="40" alt="Decision Making"/>
 </p>
