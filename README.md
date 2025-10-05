@@ -1,7 +1,7 @@
 ![logo](https://github.com/eisinsight/eisinsight/blob/main/Github_banner_1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Eis</h1>
-<h3 align="center">📚 CA Student | 📈 Data Analyst </h3>
+<h3 align="center">📚 - Finance Enthusiast  | 📈 Data Analyst </h3>
 <h4 align="center">Transforming spreadsheets into stories, and data into decisions.</h4>
 
 ---
@@ -12,7 +12,7 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>💻 Data analyst with 10+ projects on GitHub, using SQL, Python, and Power BI</li>
+        <li>💻 Data analyst projects on GitHub, using SQL, Python, and Power BI</li>
         <li>🎓 CA student with a passion for financial clarity and analytical depth</li>
         <li>🌊 Resilient soul from South Punjab, crafting insights that uplift both business and community</li>
         <li>🧠 Lifelong learner with Udemy certifications in Python, SQL, Excel, Power BI, and creative tools</li>
@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eisinsight/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="mailto:eisinsight@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30"/></a>
+  <a href="mailto:eis.insight100@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30"/></a>
   <a href="https://github.com/eisinsight" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a>
 </p>
 
