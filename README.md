@@ -30,7 +30,7 @@
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eisinsight/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/></a>
+  
   <a href="mailto:eis.insight100@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="30" height="30"/></a>
   <a href="https://github.com/eisinsight" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/></a>
 </p>
