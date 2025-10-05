@@ -15,7 +15,7 @@
         <li>💻 Data analyst projects on GitHub, using SQL, Python, and Power BI</li>
         <li>🎓 CA student with a passion for financial clarity and analytical depth</li>
         <li>🌊 Resilient soul from South Punjab, crafting insights that uplift both business and community</li>
-        <li>🧠 Lifelong learner with Udemy certifications in Python, SQL, Excel, Power BI, and creative tools</li>
+        <li>🧠 Lifelong learner with certifications in Python, SQL, Excel, Power BI, and creative tools</li>
         <li>✨ Currently building a global identity that fuses technical mastery with cultural storytelling</li>
       </ul>
     </td>
