@@ -1,7 +1,7 @@
 ![logo](https://github.com/eisinsight/eisinsight/blob/main/Github_banner_1.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Eis</h1>
-<h3 align="center">📚 - Finance Enthusiast  | 📈 Data Analyst </h3>
+<h3 align="center">📚 Finance Enthusiast  | 📈 Data Analyst </h3>
 <h4 align="center">Transforming spreadsheets into stories, and data into decisions.</h4>
 
 ---
